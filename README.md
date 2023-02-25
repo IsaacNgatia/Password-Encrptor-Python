@@ -1,1 +1,1 @@
-# Password-Encrptor-Python
+# Password-Encryptor-Python
